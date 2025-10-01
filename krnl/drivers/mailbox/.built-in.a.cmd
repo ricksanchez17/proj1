@@ -1,0 +1,1 @@
+cmd_drivers/mailbox/built-in.a := echo >/dev/null; rm -f drivers/mailbox/built-in.a; ar cDPrST drivers/mailbox/built-in.a drivers/mailbox/mailbox.o drivers/mailbox/pcc.o drivers/mailbox/bcm2835-mailbox.o drivers/mailbox/hi3660-mailbox.o drivers/mailbox/hi6220-mailbox.o drivers/mailbox/zynqmp-ipi-mailbox.o drivers/mailbox/sun6i-msgbox.o

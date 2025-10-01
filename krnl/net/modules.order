@@ -1,0 +1,5 @@
+net/core/failover.ko
+net/netfilter/x_tables.ko
+net/netfilter/xt_tcpudp.ko
+net/ipv4/netfilter/ip_tables.ko
+net/rfkill/rfkill.ko

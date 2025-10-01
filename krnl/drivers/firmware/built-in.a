@@ -1,0 +1,64 @@
+!<thin>
+//                                              466       `
+dmi_scan.o/
+dmi-sysfs.o/
+dmi-id.o/
+raspberrypi.o/
+qcom_scm.o/
+qcom_scm-smc.o/
+qcom_scm-legacy.o/
+sysfb.o/
+meson/meson_sm.o/
+efi/efi-bgrt.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/memmap.o/
+efi/fdtparams.o/
+efi/esrt.o/
+efi/cper.o/
+efi/runtime-wrappers.o/
+efi/mokvar-table.o/
+efi/sysfb_efi.o/
+efi/efi-init.o/
+efi/arm-runtime.o/
+efi/earlycon.o/
+efi/cper-arm.o/
+psci/psci.o/
+smccc/smccc.o/
+smccc/kvm_guest.o/
+smccc/soc_id.o/
+xilinx/zynqmp.o/
+/0              0           0     0     644     33632     `
+/12             0           0     0     644     24480     `
+/25             0           0     0     644     11168     `
+/35             0           0     0     644     17512     `
+/50             0           0     0     644     55344     `
+/62             0           0     0     644     4768      `
+/78             0           0     0     644     4992      `
+/97             0           0     0     644     5104      `
+/106            0           0     0     644     12432     `
+/124            0           0     0     644     3656      `
+/140            0           0     0     644     31560     `
+/151            0           0     0     644     35992     `
+/163            0           0     0     644     3592      `
+/177            0           0     0     644     6360      `
+/192            0           0     0     644     5176      `
+/203            0           0     0     644     7224      `
+/217            0           0     0     644     3712      `
+/234            0           0     0     644     16064     `
+/246            0           0     0     644     27352     `
+/258            0           0     0     644     23640     `
+/282            0           0     0     644     7240      `
+/302            0           0     0     644     24816     `
+/319            0           0     0     644     6872      `
+/335            0           0     0     644     7616      `
+/354            0           0     0     644     7744      `
+/370            0           0     0     644     11712     `
+/386            0           0     0     644     17728     `
+/399            0           0     0     644     6432      `
+/414            0           0     0     644     4880      `
+/433            0           0     0     644     6520      `
+/449            0           0     0     644     64968     `

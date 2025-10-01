@@ -1,0 +1,14 @@
+!<thin>
+//                                              104       `
+hisi-reboot.o/
+msm-poweroff.o/
+vexpress-poweroff.o/
+xgene-reboot.o/
+syscon-reboot.o/
+syscon-poweroff.o/
+/0              0           0     0     644     6408      `
+/15             0           0     0     644     4856      `
+/31             0           0     0     644     8248      `
+/52             0           0     0     644     4976      `
+/68             0           0     0     644     5480      `
+/85             0           0     0     644     6160      `

@@ -1,0 +1,11 @@
+!<thin>
+//                                              58        `
+printk.o/
+printk_safe.o/
+braille.o/
+printk_ringbuffer.o/
+
+/0              0           0     0     644     564096    `
+/10             0           0     0     644     4032      `
+/25             0           0     0     644     2712      `
+/36             0           0     0     644     14808     `

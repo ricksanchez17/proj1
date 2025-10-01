@@ -1,0 +1,1 @@
+cmd_drivers/soc/tegra/fuse/built-in.a := echo >/dev/null; rm -f drivers/soc/tegra/fuse/built-in.a; ar cDPrST drivers/soc/tegra/fuse/built-in.a drivers/soc/tegra/fuse/fuse-tegra.o drivers/soc/tegra/fuse/fuse-tegra30.o drivers/soc/tegra/fuse/tegra-apbmisc.o drivers/soc/tegra/fuse/speedo-tegra124.o drivers/soc/tegra/fuse/speedo-tegra210.o

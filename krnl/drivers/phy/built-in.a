@@ -1,0 +1,20 @@
+!<thin>
+//                                              270       `
+phy-core.o/
+phy-core-mipi-dphy.o/
+amlogic/phy-meson-gxl-usb2.o/
+amlogic/phy-meson-g12a-usb2.o/
+amlogic/phy-meson-g12a-usb3-pcie.o/
+amlogic/phy-meson-axg-pcie.o/
+amlogic/phy-meson-axg-mipi-pcie-analog.o/
+amlogic/phy-meson-axg-mipi-dphy.o/
+freescale/phy-fsl-imx8mq-usb.o/
+/0              0           0     0     644     57944     `
+/12             0           0     0     644     4504      `
+/34             0           0     0     644     9136      `
+/64             0           0     0     644     8424      `
+/95             0           0     0     644     13936     `
+/131            0           0     0     644     8352      `
+/161            0           0     0     644     8296      `
+/203            0           0     0     644     10264     `
+/238            0           0     0     644     8968      `

@@ -1,0 +1,10 @@
+!<thin>
+//                                              88        `
+pinctrl-mvebu.o/
+pinctrl-armada-ap806.o/
+pinctrl-armada-cp110.o/
+pinctrl-armada-37xx.o/
+/0              0           0     0     644     15216     `
+/17             0           0     0     644     10552     `
+/41             0           0     0     644     52264     `
+/65             0           0     0     644     28528     `

@@ -1,0 +1,1 @@
+cmd_drivers/perf/built-in.a := echo >/dev/null; rm -f drivers/perf/built-in.a; ar cDPrST drivers/perf/built-in.a drivers/perf/arm-cci.o drivers/perf/arm-ccn.o drivers/perf/arm_pmu.o drivers/perf/arm_pmu_platform.o drivers/perf/arm_pmu_acpi.o drivers/perf/hisilicon/built-in.a drivers/perf/qcom_l2_pmu.o drivers/perf/qcom_l3_pmu.o drivers/perf/xgene_pmu.o

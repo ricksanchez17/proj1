@@ -1,0 +1,87 @@
+!<thin>
+//                                              546       `
+sock.o/
+request_sock.o/
+skbuff.o/
+datagram.o/
+stream.o/
+scm.o/
+gen_stats.o/
+gen_estimator.o/
+net_namespace.o/
+secure_seq.o/
+flow_dissector.o/
+sysctl_net_core.o/
+dev.o/
+dev_addr_lists.o/
+dst.o/
+netevent.o/
+neighbour.o/
+rtnetlink.o/
+utils.o/
+link_watch.o/
+filter.o/
+sock_diag.o/
+dev_ioctl.o/
+tso.o/
+sock_reuseport.o/
+fib_notifier.o/
+xdp.o/
+flow_offload.o/
+net-sysfs.o/
+net-procfs.o/
+fib_rules.o/
+net-traces.o/
+netprio_cgroup.o/
+netclassid_cgroup.o/
+lwtunnel.o/
+lwt_bpf.o/
+dst_cache.o/
+gro_cells.o/
+skmsg.o/
+sock_map.o/
+bpf_sk_storage.o/
+of_net.o/
+
+/0             /0           0     0     644     163544    `
+/8              0           0     0     644     4224      `
+/24             0           0     0     644     197784    `
+/34             0           0     0     644     29552     `
+/46             0           0     0     644     12296     `
+/56             0           0     0     644     15216     `
+/63             0           0     0     644     16312     `
+/76             0           0     0     644     10088     `
+/93             0           0     0     644     54960     `
+/110            0           0     0     644     11496     `
+/124            0           0     0     644     35656     `
+/142            0           0     0     644     24632     `
+/161            0           0     0     644     405688    `
+/168            0           0     0     644     45000     `
+/186            0           0     0     644     28360     `
+/193            0           0     0     644     5248      `
+/205            0           0     0     644     133320    `
+/218            0           0     0     644     121240    `
+/231            0           0     0     644     14856     `
+/240            0           0     0     644     12696     `
+/254            0           0     0     644     198080    `
+/264            0           0     0     644     20888     `
+/277            0           0     0     644     10664     `
+/290            0           0     0     644     6928      `
+/297            0           0     0     644     21704     `
+/315            0           0     0     644     12024     `
+/331            0           0     0     644     29216     `
+/338            0           0     0     644     44200     `
+/354            0           0     0     644     74640     `
+/367            0           0     0     644     11768     `
+/381            0           0     0     644     31888     `
+/394            0           0     0     644     204648    `
+/408            0           0     0     644     9256      `
+/426            0           0     0     644     6528      `
+/447            0           0     0     644     22344     `
+/459            0           0     0     644     14880     `
+/470            0           0     0     644     13416     `
+/483            0           0     0     644     8024      `
+/496            0           0     0     644     50472     `
+/505            0           0     0     644     42280     `
+/517            0           0     0     644     25776     `
+/535            0           0     0     644     7184      `

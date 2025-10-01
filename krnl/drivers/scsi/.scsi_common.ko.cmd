@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_common.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o drivers/scsi/scsi_common.ko drivers/scsi/scsi_common.o drivers/scsi/scsi_common.mod.o;  true

@@ -1,0 +1,7 @@
+crypto/sha3_generic.ko
+crypto/gf128mul.ko
+crypto/cryptd.ko
+crypto/aes_generic.ko
+crypto/crct10dif_common.ko
+crypto/crct10dif_generic.ko
+crypto/crypto_simd.ko

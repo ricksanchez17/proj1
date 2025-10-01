@@ -1,0 +1,12 @@
+fs/nls/nls_cp437.ko
+fs/nls/nls_ascii.ko
+fs/mbcache.ko
+fs/configfs/configfs.ko
+fs/ext4/ext4.ko
+fs/jbd2/jbd2.ko
+fs/fat/fat.ko
+fs/fat/vfat.ko
+fs/isofs/isofs.ko
+fs/autofs/autofs4.ko
+fs/fuse/fuse.ko
+fs/efivarfs/efivarfs.ko

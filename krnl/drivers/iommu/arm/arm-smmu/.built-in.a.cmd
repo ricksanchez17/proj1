@@ -1,0 +1,1 @@
+cmd_drivers/iommu/arm/arm-smmu/built-in.a := echo >/dev/null; rm -f drivers/iommu/arm/arm-smmu/built-in.a; ar cDPrST drivers/iommu/arm/arm-smmu/built-in.a drivers/iommu/arm/arm-smmu/qcom_iommu.o drivers/iommu/arm/arm-smmu/arm-smmu.o drivers/iommu/arm/arm-smmu/arm-smmu-impl.o drivers/iommu/arm/arm-smmu/arm-smmu-nvidia.o drivers/iommu/arm/arm-smmu/arm-smmu-qcom.o

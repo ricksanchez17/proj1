@@ -1,0 +1,10 @@
+!<thin>
+//                                              70        `
+phy/of.o/
+phy/phy-ulpi.o/
+phy/phy-ulpi-viewport.o/
+host/pci-quirks.o/
+/0              0           0     0     644     3776      `
+/10             0           0     0     644     7416      `
+/26             0           0     0     644     3984      `
+/51             0           0     0     644     39512     `

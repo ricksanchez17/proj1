@@ -1,0 +1,13 @@
+Package: linux-headers-5.15.67proj1-ta1
+Source: linux-upstream
+Version: 5.15.67proj1-ta1-1
+Architecture: arm64
+Maintainer: root <root@debian-arm64>
+Installed-Size: 45727
+Section: kernel
+Priority: optional
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.15.67proj1-ta1 on arm64
+ This package provides kernel header files for 5.15.67proj1-ta1 on arm64
+ .
+ This is useful for people who need to build external modules

@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 14 Sep 2025 20:15:56 -0400
+Source: linux-upstream
+Binary: linux-headers-5.15.67proj1-ta1 linux-image-5.15.67proj1-ta1 linux-libc-dev
+Architecture: arm64
+Version: 5.15.67proj1-ta1-1
+Distribution: bullseye
+Urgency: low
+Maintainer: root <root@debian-arm64>
+Changed-By: root <root@debian-arm64>
+Description:
+ linux-headers-5.15.67proj1-ta1 - Linux kernel headers for 5.15.67proj1-ta1 on arm64
+ linux-image-5.15.67proj1-ta1 - Linux kernel, version 5.15.67proj1-ta1
+ linux-libc-dev - Linux support headers for userspace development
+Changes:
+ linux-upstream (5.15.67proj1-ta1-1) bullseye; urgency=low
+ .
+   * Custom built Linux kernel.
+Checksums-Sha1:
+ 8e153c9c79cdaf06e6a97b2c75e24a08f1748446 7705860 linux-headers-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb
+ 5ae10903648c601ce6fd7484cd49f68bea99dbfe 11100464 linux-image-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb
+ 0668c1cf94b9ba77be53be7e910116334ebfbda5 1178316 linux-libc-dev_5.15.67proj1-ta1-1_arm64.deb
+ 61c3b4725aa9f4ed021a182a3691df01cd3c3f94 5281 linux-upstream_5.15.67proj1-ta1-1_arm64.buildinfo
+Checksums-Sha256:
+ 2316203691330fbf5b02183f8649a008e3c00b0e6e88b2af0213951234623368 7705860 linux-headers-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb
+ 3ebd6130c5846100df3e3c5be1bf5805370bf9df6f5f294973fc7bad02ba580d 11100464 linux-image-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb
+ b368dc5ec73aa0fe469194c7c10925fa97fb620567afe70e47db18f6d027d965 1178316 linux-libc-dev_5.15.67proj1-ta1-1_arm64.deb
+ 8427f988032a7d7cd16fee483b91b6045de450cac6d76e5e0dbf499587bf0abb 5281 linux-upstream_5.15.67proj1-ta1-1_arm64.buildinfo
+Files:
+ 888393bcb3729fba51fbdd708d3c0ddf 7705860 kernel optional linux-headers-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb
+ 15b244c4a11f4fd7cdf4792c139c080b 11100464 kernel optional linux-image-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb
+ 89bc7d8a6a2530edee3822a64cd896de 1178316 devel optional linux-libc-dev_5.15.67proj1-ta1-1_arm64.deb
+ 6d27d4c95c58cb79e2b7c0c6911010b2 5281 kernel optional linux-upstream_5.15.67proj1-ta1-1_arm64.buildinfo

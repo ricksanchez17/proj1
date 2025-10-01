@@ -1,0 +1,1 @@
+cmd_drivers/acpi/arm64/built-in.a := echo >/dev/null; rm -f drivers/acpi/arm64/built-in.a; ar cDPrST drivers/acpi/arm64/built-in.a drivers/acpi/arm64/iort.o drivers/acpi/arm64/gtdt.o drivers/acpi/arm64/dma.o

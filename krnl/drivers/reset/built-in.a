@@ -1,0 +1,16 @@
+!<thin>
+//                                              122       `
+core.o/
+hisilicon/hi6220_reset.o/
+hisilicon/reset-hi3660.o/
+reset-meson.o/
+reset-simple.o/
+reset-sunxi.o/
+reset-zynqmp.o/
+/0              0           0     0     644     48120     `
+/8              0           0     0     644     6776      `
+/34             0           0     0     644     5856      `
+/60             0           0     0     644     8368      `
+/75             0           0     0     644     9856      `
+/91             0           0     0     644     3496      `
+/106            0           0     0     644     5696      `

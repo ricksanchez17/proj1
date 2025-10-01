@@ -1,0 +1,1 @@
+cmd_drivers/bus/built-in.a := echo >/dev/null; rm -f drivers/bus/built-in.a; ar cDPrST drivers/bus/built-in.a drivers/bus/arm-cci.o drivers/bus/hisi_lpc.o drivers/bus/fsl-mc/built-in.a drivers/bus/qcom-ebi2.o drivers/bus/sun50i-de2.o drivers/bus/sunxi-rsb.o drivers/bus/simple-pm-bus.o drivers/bus/tegra-aconnect.o drivers/bus/vexpress-config.o

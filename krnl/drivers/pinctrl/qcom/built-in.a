@@ -1,0 +1,17 @@
+!<thin>
+//                                              136       `
+pinctrl-msm.o/
+pinctrl-msm8916.o/
+pinctrl-msm8996.o/
+pinctrl-spmi-gpio.o/
+pinctrl-spmi-mpp.o/
+pinctrl-ssbi-gpio.o/
+pinctrl-ssbi-mpp.o/
+
+/0              0           0     0     644     36104     `
+/15             0           0     0     644     78048     `
+/34             0           0     0     644     109624    `
+/53             0           0     0     644     31352     `
+/74             0           0     0     644     21712     `
+/94             0           0     0     644     23088     `
+/115            0           0     0     644     20016     `

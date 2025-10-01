@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.a := echo >/dev/null; rm -f drivers/mfd/built-in.a; ar cDPrST drivers/mfd/built-in.a drivers/mfd/bcm2835-pm.o drivers/mfd/sun6i-prcm.o drivers/mfd/mfd-core.o drivers/mfd/max77620.o drivers/mfd/syscon.o drivers/mfd/vexpress-sysreg.o drivers/mfd/simple-mfd-i2c.o

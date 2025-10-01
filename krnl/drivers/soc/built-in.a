@@ -1,0 +1,52 @@
+!<thin>
+//                                              574       `
+bcm/bcm2835-power.o/
+bcm/raspberrypi-power.o/
+imx/gpcv2.o/
+imx/soc-imx8m.o/
+amlogic/meson-clk-measure.o/
+amlogic/meson-gx-socinfo.o/
+amlogic/meson-gx-pwrc-vpu.o/
+amlogic/meson-ee-pwrc.o/
+amlogic/meson-secure-pwrc.o/
+qcom/cmd-db.o/
+qcom/kryo-l2-accessors.o/
+rockchip/grf.o/
+rockchip/pm_domains.o/
+sunxi/sunxi_mbus.o/
+sunxi/sunxi_sram.o/
+tegra/fuse/fuse-tegra.o/
+tegra/fuse/fuse-tegra30.o/
+tegra/fuse/tegra-apbmisc.o/
+tegra/fuse/speedo-tegra124.o/
+tegra/fuse/speedo-tegra210.o/
+tegra/common.o/
+tegra/flowctrl.o/
+tegra/pmc.o/
+xilinx/zynqmp_power.o/
+xilinx/zynqmp_pm_domains.o/
+/0              0           0     0     644     15416     `
+/21             0           0     0     644     9624      `
+/46             0           0     0     644     58240     `
+/59             0           0     0     644     8528      `
+/76             0           0     0     644     40416     `
+/105            0           0     0     644     7376      `
+/133            0           0     0     644     14832     `
+/162            0           0     0     644     17072     `
+/187            0           0     0     644     9240      `
+/216            0           0     0     644     12000     `
+/231            0           0     0     644     5504      `
+/257            0           0     0     644     7704      `
+/273            0           0     0     644     31952     `
+/296            0           0     0     644     7544      `
+/316            0           0     0     644     17688     `
+/336            0           0     0     644     19816     `
+/361            0           0     0     644     9776      `
+/388            0           0     0     644     10976     `
+/416            0           0     0     644     4576      `
+/446            0           0     0     644     4592      `
+/476            0           0     0     644     7304      `
+/492            0           0     0     644     9888      `
+/510            0           0     0     644     95824     `
+/523            0           0     0     644     10632     `
+/546            0           0     0     644     12208     `

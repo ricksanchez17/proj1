@@ -1,0 +1,1 @@
+cmd_drivers/power/reset/built-in.a := echo >/dev/null; rm -f drivers/power/reset/built-in.a; ar cDPrST drivers/power/reset/built-in.a drivers/power/reset/hisi-reboot.o drivers/power/reset/msm-poweroff.o drivers/power/reset/vexpress-poweroff.o drivers/power/reset/xgene-reboot.o drivers/power/reset/syscon-reboot.o drivers/power/reset/syscon-poweroff.o

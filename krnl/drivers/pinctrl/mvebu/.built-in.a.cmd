@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/mvebu/built-in.a := echo >/dev/null; rm -f drivers/pinctrl/mvebu/built-in.a; ar cDPrST drivers/pinctrl/mvebu/built-in.a drivers/pinctrl/mvebu/pinctrl-mvebu.o drivers/pinctrl/mvebu/pinctrl-armada-ap806.o drivers/pinctrl/mvebu/pinctrl-armada-cp110.o drivers/pinctrl/mvebu/pinctrl-armada-37xx.o

@@ -1,0 +1,1 @@
+cmd_drivers/clk/zynqmp/built-in.a := echo >/dev/null; rm -f drivers/clk/zynqmp/built-in.a; ar cDPrST drivers/clk/zynqmp/built-in.a drivers/clk/zynqmp/pll.o drivers/clk/zynqmp/clk-gate-zynqmp.o drivers/clk/zynqmp/divider.o drivers/clk/zynqmp/clk-mux-zynqmp.o drivers/clk/zynqmp/clkc.o

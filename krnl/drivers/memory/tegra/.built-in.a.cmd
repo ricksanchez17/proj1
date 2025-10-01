@@ -1,0 +1,1 @@
+cmd_drivers/memory/tegra/built-in.a := echo >/dev/null; rm -f drivers/memory/tegra/built-in.a; ar cDPrST drivers/memory/tegra/built-in.a drivers/memory/tegra/mc.o drivers/memory/tegra/tegra124.o drivers/memory/tegra/tegra210.o

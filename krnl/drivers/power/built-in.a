@@ -1,0 +1,22 @@
+!<thin>
+//                                              254       `
+reset/hisi-reboot.o/
+reset/msm-poweroff.o/
+reset/vexpress-poweroff.o/
+reset/xgene-reboot.o/
+reset/syscon-reboot.o/
+reset/syscon-poweroff.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/power_supply_hwmon.o/
+/0              0           0     0     644     6408      `
+/21             0           0     0     644     4856      `
+/43             0           0     0     644     8248      `
+/70             0           0     0     644     4976      `
+/92             0           0     0     644     5480      `
+/115            0           0     0     644     6160      `
+/140            0           0     0     644     62984     `
+/168            0           0     0     644     21952     `
+/197            0           0     0     644     6040      `
+/225            0           0     0     644     8160      `

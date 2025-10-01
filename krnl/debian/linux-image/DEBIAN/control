@@ -1,0 +1,12 @@
+Package: linux-image-5.15.67proj1-ta1
+Source: linux-upstream
+Version: 5.15.67proj1-ta1-1
+Architecture: arm64
+Maintainer: root <root@debian-arm64>
+Installed-Size: 36335
+Section: kernel
+Priority: optional
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.15.67proj1-ta1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.15.67proj1-ta1.

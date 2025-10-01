@@ -1,0 +1,1 @@
+cmd_drivers/virtio/modules.order := {   echo drivers/virtio/virtio.ko;   echo drivers/virtio/virtio_ring.ko;   echo drivers/virtio/virtio_pci_modern_dev.ko;   echo drivers/virtio/virtio_pci.ko;   echo drivers/virtio/virtio_balloon.ko;   echo drivers/virtio/virtio_dma_buf.ko; :; } | awk '!x[$$0]++' - > drivers/virtio/modules.order

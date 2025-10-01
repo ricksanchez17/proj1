@@ -1,0 +1,1 @@
+cmd_drivers/thermal/tegra/built-in.a := echo >/dev/null; rm -f drivers/thermal/tegra/built-in.a; ar cDPrST drivers/thermal/tegra/built-in.a drivers/thermal/tegra/soctherm.o drivers/thermal/tegra/soctherm-fuse.o drivers/thermal/tegra/tegra132-soctherm.o drivers/thermal/tegra/tegra210-soctherm.o

@@ -1,0 +1,13 @@
+!<thin>
+//                                              88        `
+pinctrl-imx.o/
+pinctrl-imx8mm.o/
+pinctrl-imx8mn.o/
+pinctrl-imx8mp.o/
+pinctrl-imx8mq.o/
+
+/0              0           0     0     644     24976     `
+/15             0           0     0     644     15536     `
+/33             0           0     0     644     15544     `
+/51             0           0     0     644     15488     `
+/69             0           0     0     644     15680     `

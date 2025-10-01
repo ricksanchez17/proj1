@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/tegra/built-in.a := echo >/dev/null; rm -f drivers/pinctrl/tegra/built-in.a; ar cDPrST drivers/pinctrl/tegra/built-in.a drivers/pinctrl/tegra/pinctrl-tegra.o drivers/pinctrl/tegra/pinctrl-tegra124.o drivers/pinctrl/tegra/pinctrl-tegra210.o drivers/pinctrl/tegra/pinctrl-tegra-xusb.o

@@ -1,0 +1,41 @@
+!<thin>
+//                                              294       `
+gpiolib.o/
+gpiolib-devres.o/
+gpiolib-legacy.o/
+gpiolib-of.o/
+gpiolib-cdev.o/
+gpiolib-sysfs.o/
+gpiolib-acpi.o/
+gpio-mmio.o/
+gpio-max77620.o/
+gpio-mpc8xxx.o/
+gpio-mvebu.o/
+gpio-mxc.o/
+gpio-pca953x.o/
+gpio-pl061.o/
+gpio-raspberrypi-exp.o/
+gpio-rockchip.o/
+gpio-tegra.o/
+gpio-xgene.o/
+gpio-xlp.o/
+
+/0              0           0     0     644     178648    `
+/11             0           0     0     644     22448     `
+/29             0           0     0     644     8344      `
+/47             0           0     0     644     21840     `
+/61             0           0     0     644     54504     `
+/77             0           0     0     644     28680     `
+/94             0           0     0     644     45096     `
+/110            0           0     0     644     19464     `
+/123            0           0     0     644     11936     `
+/140            0           0     0     644     15600     `
+/156            0           0     0     644     29176     `
+/170            0           0     0     644     17552     `
+/182            0           0     0     644     36472     `
+/198            0           0     0     644     16288     `
+/212            0           0     0     644     9376      `
+/236            0           0     0     644     22928     `
+/253            0           0     0     644     22600     `
+/267            0           0     0     644     8600      `
+/281            0           0     0     644     13808     `

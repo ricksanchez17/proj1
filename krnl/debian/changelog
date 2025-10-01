@@ -1,0 +1,5 @@
+linux-upstream (5.15.67proj1-ta1-1) bullseye; urgency=low
+
+  * Custom built Linux kernel.
+
+ -- root <root@debian-arm64>  Sun, 14 Sep 2025 20:15:56 -0400

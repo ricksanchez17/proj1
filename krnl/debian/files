@@ -1,0 +1,4 @@
+linux-headers-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb kernel optional
+linux-image-5.15.67proj1-ta1_5.15.67proj1-ta1-1_arm64.deb kernel optional
+linux-libc-dev_5.15.67proj1-ta1-1_arm64.deb devel optional
+linux-upstream_5.15.67proj1-ta1-1_arm64.buildinfo kernel optional
